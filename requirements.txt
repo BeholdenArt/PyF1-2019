@@ -1,0 +1,5 @@
+numpy==1.19.1
+opencv-python==4.4.0.40
+pywin32==228
+tensorflow-gpu==1.14.0
+tflearn==0.3.2
