@@ -60,7 +60,7 @@
   <a href="https://github.com/BeholdenArt/pyF1-2019">
     <img src="videos/demo1.gif" alt="demo1" width="960" height="540">
   </a>
-  GIF of AI playing F1-2019 game on it's own. 
+  <pre>      GIF of AI playing F1-2019 game on it's own. </pre>
 </p>
 <br />
 
