@@ -5,10 +5,10 @@
 </pre>
 <p align="left">
   <a href="https://github.com/BeholdenArt/pyF1-2019">
-    <img src=https://media.giphy.com/media/9F2VWRiJypeBq/source.gif alt="Logo" width="450" height="300">
+    <img src=https://media.giphy.com/media/9F2VWRiJypeBq/source.gif alt="Logo" width="410" height="300">
   </a>
   <a href="https://github.com/BeholdenArt/pyF1-2019">
-    <img src="https://media.giphy.com/media/Y1ggBG6wpBdwA/source.gif" alt="Logo" width="450" height="300">
+    <img src="https://media.giphy.com/media/Y1ggBG6wpBdwA/source.gif" alt="Logo" width="410" height="300">
   </a>
 
 
