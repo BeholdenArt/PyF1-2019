@@ -18,7 +18,7 @@
     An AI that drives the car in the F1-2019(PC) game on the Bahrain map.
     <br />
     <br />
-    <a href="https://github.com/BeholdenArt/pyF1-2019">View Demo</a>
+    <a href="https://github.com/BeholdenArt/pyF1-2019/">View Demo</a>
     ·
     <a href="https://github.com/BeholdenArt/pyF1-2019/issues">Report Bug</a>
     ·
@@ -75,8 +75,9 @@
 
 
 <br>
+
 <!-- BUILT WITH -->
-## Built With
+## Built-with
 <ol>
   <li> <a href="https://docs.opencv.org/4.5.2/" target="_blank">OpenCV</a> - To capture the Game screen. </li> 
   <li> <a href="http://timgolden.me.uk/pywin32-docs/" target="_blank">win32api</a> - To identify keys pressed. </li> 
